@@ -6,6 +6,14 @@ This repository contains a LaTeX template specifically designed for ACM contest 
 
 The template provides a structured format for presenting ACM contest problems, ensuring consistency and clarity in problem statements. It's tailored to meet the requirements and branding of Birjand University.
 
+## Preview
+
+Here's a preview of the first two pages of the generated PDF:
+
+![First Page](images/ICPC-1.jpg)
+![Second Page](images//ICPC-2.jpg)
+
+
 ## Usage
 
 1. **Editing Problems:** Navigate to the `problems` directory. Each problem should be placed in its own sub-directory, and the problem statement should be written in a `problem.tex` file within that sub-directory.
