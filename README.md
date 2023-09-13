@@ -10,9 +10,7 @@ The template provides a structured format for presenting ACM contest problems, e
 
 Here's a preview of the first two pages of the generated PDF:
 
-![First Page](images/ICPC-1.jpg)
-![Second Page](images//ICPC-2.jpg)
-
+<img src="images/ICPC-1.jpg" width="45%" /> <img src="images/ICPC-2.jpg" width="45%" />
 
 ## Usage
 
